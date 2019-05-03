@@ -1,7 +1,7 @@
 classes:
 - system.linux.system.sudo
 - system.openssh.server.team.members.mniedbala
-- system.openssh.server.team.members.pmichalec
+- system.openssh.server.team.members.deprecated.pmichalec
 - system.openssh.server.team.members.pcizinsky
 - system.openssh.server.team.members.lmercl
 - system.openssh.server.team.members.pruzicka
@@ -23,6 +23,9 @@ classes:
 - system.openssh.server.team.members.pbasov
 - system.openssh.server.team.members.alis
 - system.openssh.server.team.members.isviridov
+- system.openssh.server.team.members.cdodda
+- system.openssh.server.team.members.lmendes
+- system.openssh.server.team.members.kalmog
 parameters:
   _param:
     linux_system_user_sudo: true
