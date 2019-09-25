@@ -5,6 +5,10 @@ classes:
 - system.openssh.server.team.members.pmichalec
 - system.openssh.server.team.members.brucemathews
 - system.openssh.server.team.members.andreidanin
+- system.openssh.server.team.members.danielvirassamy
+- system.openssh.server.team.members.srichowdhury
+- system.openssh.server.team.members.michaeltillman
+- system.openssh.server.team.members.rjain
 
 parameters:
   _param:
